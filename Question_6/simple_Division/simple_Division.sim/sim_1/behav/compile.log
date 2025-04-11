@@ -1,0 +1,5 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Xilinx/Vivado_code/Question_6/simple_Division/simple_Division.srcs/sources_1/new/Division_VHDl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Division_vhdl
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Xilinx/Vivado_code/Question_6/simple_Division/simple_Division.srcs/sources_1/new/Division_vhdl_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Division_vhdl_tb
+WARNING: [VRFC 10-1256] possible infinite loop; process does not have a wait statement [F:/Xilinx/Vivado_code/Question_6/simple_Division/simple_Division.srcs/sources_1/new/Division_vhdl_tb.vhd:19]

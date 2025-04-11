@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:F:/Xilinx/Vivado_code/Question_1/Fuction_1/Fuction_1.srcs/constrs_1/new/Fuction1.xdc rfile:../Fuction_1.srcs/constrs_1/new/Fuction1.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_load 0.000 [all_outputs]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property LOAD 0 [get_ports F]
+set_property src_info {type:XDC file:1 line:5 export:INPUT save:INPUT read:READ} [current_design]
+set_load 0.000 [all_outputs]

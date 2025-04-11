@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Tue Dec 28 22:35:02 2021
+# Process ID: 8328
+# Log file: F:/Xilinx/Vivado_code/Question_3/4_bit_ripple_Carry_adder/4_bit_ripple_Carry_adder.runs/synth_1/Ripple_Adder.vds
+# Journal file: F:/Xilinx/Vivado_code/Question_3/4_bit_ripple_Carry_adder/4_bit_ripple_Carry_adder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Ripple_Adder.tcl -notrace

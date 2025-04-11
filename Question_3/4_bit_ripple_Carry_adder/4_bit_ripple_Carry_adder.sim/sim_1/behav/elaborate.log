@@ -1,0 +1,16 @@
+Vivado Simulator 2015.1
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: F:/Xilinx/egkatastasi/Vivado/2015.1/bin/unwrapped/win64.o/xelab.exe -wto 854889a699544704a3ee4e727388f928 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Ripple_Adder_tb_behav xil_defaultlib.Ripple_Adder_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package ieee.std_logic_1164
+Compiling architecture gate_level of entity xil_defaultlib.full_adder_vhdl_code [full_adder_vhdl_code_default]
+Compiling architecture behavioral of entity xil_defaultlib.Ripple_Adder [ripple_adder_default]
+Compiling architecture behavioral of entity xil_defaultlib.ripple_adder_tb
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot Ripple_Adder_tb_behav

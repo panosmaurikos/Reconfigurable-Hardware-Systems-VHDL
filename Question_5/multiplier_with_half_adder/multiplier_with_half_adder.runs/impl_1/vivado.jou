@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Wed Dec 29 14:07:45 2021
+# Process ID: 4560
+# Log file: F:/Xilinx/Vivado_code/Question_5/multiplier_with_half_adder/multiplier_with_half_adder.runs/impl_1/multiplier2x2.vdi
+# Journal file: F:/Xilinx/Vivado_code/Question_5/multiplier_with_half_adder/multiplier_with_half_adder.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source multiplier2x2.tcl -notrace

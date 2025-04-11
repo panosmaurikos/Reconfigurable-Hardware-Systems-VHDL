@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Πάνος/Desktop/vivado code_1/Ερώτημα_1/Fuction_1/Fuction_1.srcs/sources_1/new/Fuction1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Fuction1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Πάνος/Desktop/vivado code_1/Ερώτημα_1/Fuction_1/Fuction_1.srcs/sources_1/new/Fuction1_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Fuction1_tb

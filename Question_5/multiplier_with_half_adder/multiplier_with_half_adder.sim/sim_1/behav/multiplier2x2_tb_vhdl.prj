@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "C:/Users/Πάνος/Desktop/vivado code_1/Ερώτημα_5/_5/multiplier_with_half_adder/multiplier_with_half_adder.srcs/sources_1/new/Halfadder.vhd"
+vhdl xil_defaultlib  "C:/Users/Πάνος/Desktop/vivado code_1/Ερώτημα_5/_5/multiplier_with_half_adder/multiplier_with_half_adder.srcs/sources_1/new/multiplier2x2.vhd"
+vhdl xil_defaultlib  "C:/Users/Πάνος/Desktop/vivado code_1/Ερώτημα_5/_5/multiplier_with_half_adder/multiplier_with_half_adder.srcs/sources_1/new/multiplier2x2_tb.vhd"
+
+# Do not sort compile order
+nosort

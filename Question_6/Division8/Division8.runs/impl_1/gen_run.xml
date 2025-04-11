@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7k70tfbv676-1" LaunchTime="1640888457">
+  <File Type="OPT-DCP" Name="Division8_opt.dcp"/>
+  <File Type="RUN-CONSTRS" Name="$PDATADIR/runs/impl_1/constrs_in.xml"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Division8_postroute_physopt.dcp"/>
+  <File Type="PA-DCP" Name="Division8.dcp"/>
+  <File Type="RUN-SRCS" Name="$PDATADIR/runs/impl_1/sources.xml"/>
+  <File Type="PWROPT-DCP" Name="Division8_pwropt.dcp"/>
+  <File Type="ROUTE-DCP" Name="Division8_routed.dcp"/>
+  <File Type="PA-TCL" Name="Division8.tcl"/>
+  <File Type="RUN-STRAT" Name="$PDATADIR/runs/impl_1/impl_1.psg"/>
+  <File Type="OPT-DRC" Name="Division8_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Division8.hwdef"/>
+  <File Type="PWROPT-DRC" Name="Division8_drc_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Division8_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Division8_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Division8_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Division8_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Division8_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Division8_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Division8_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Division8_incremental_reuse_pre_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Division8_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="Division8_physopt.dcp"/>
+  <File Type="RDI-RDI" Name="Division8.vdi"/>
+  <File Type="PHYSOPT-DRC" Name="Division8_drc_physopted.rpt"/>
+  <File Type="ROUTE-DRC" Name="Division8_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Division8_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="Division8_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="Division8_power_summary_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="Division8_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Division8_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Division8_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Division8_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Division8_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Division8_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Division8_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Division8_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Division8_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Division8_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="Division8.bit"/>
+  <File Type="BG-BIN" Name="Division8.bin"/>
+  <File Type="BITSTR-MSK" Name="Division8.msk"/>
+  <File Type="BITSTR-RBT" Name="Division8.rbt"/>
+  <File Type="BITSTR-NKY" Name="Division8.nky"/>
+  <File Type="BITSTR-BMM" Name="Division8_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="Division8.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="Division8.sysdef"/>
+  <File Type="BG-BGN" Name="Division8.bgn"/>
+  <File Type="BG-DRC" Name="Division8.drc"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Division8.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Division8_tb.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Division8"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2015">
+      <Desc>Vivado Implementation Defaults</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

@@ -1,0 +1,1 @@
+-wto "3ca064c0ad7343b3b468f4d100defc07" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "erotima_7_tb_behav" "xil_defaultlib.erotima_7_tb" -log "elaborate.log" 

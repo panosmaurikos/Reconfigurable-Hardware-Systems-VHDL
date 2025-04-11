@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Πάνος/Desktop/vivado code_1/Ερώτημα_2/erotima_2/erotima_2.srcs/sources_1/new/or_gate.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity or_gate
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Πάνος/Desktop/vivado code_1/Ερώτημα_2/erotima_2/erotima_2.srcs/sources_1/new/not_gate.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity not_gate
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Πάνος/Desktop/vivado code_1/Ερώτημα_2/erotima_2/erotima_2.srcs/sources_1/new/and_gate.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity and_gate
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Πάνος/Desktop/vivado code_1/Ερώτημα_2/erotima_2/erotima_2.srcs/sources_1/new/Fuction_full.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Fuction_full
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Πάνος/Desktop/vivado code_1/Ερώτημα_2/erotima_2/erotima_2.srcs/sources_1/new/Fuction_full_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Fuction_full_tb

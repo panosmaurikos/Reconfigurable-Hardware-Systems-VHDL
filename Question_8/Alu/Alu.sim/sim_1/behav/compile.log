@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado/project_1/project_1.srcs/sources_1/new/cond_arch.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity simple_alu
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/vivado/project_1/project_1.srcs/sources_1/new/alu_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity simple_alu_tb

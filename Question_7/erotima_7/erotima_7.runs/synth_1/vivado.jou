@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Thu Dec 30 21:15:00 2021
+# Process ID: 11328
+# Log file: F:/Xilinx/Vivado_code/Question_7/erotima_7/erotima_7.runs/synth_1/erotima_7.vds
+# Journal file: F:/Xilinx/Vivado_code/Question_7/erotima_7/erotima_7.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source erotima_7.tcl -notrace

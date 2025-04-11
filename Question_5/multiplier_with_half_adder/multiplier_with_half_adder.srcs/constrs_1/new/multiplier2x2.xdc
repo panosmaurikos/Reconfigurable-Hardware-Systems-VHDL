@@ -1,0 +1,5 @@
+set_property LOAD 0 [get_ports {C[1]}]
+set_property LOAD 0 [get_ports {C[0]}]
+set_property LOAD 0 [get_ports {C[2]}]
+set_property LOAD 0 [get_ports {C[3]}]
+set_load 0.000 [all_outputs]
